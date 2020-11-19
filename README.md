@@ -213,7 +213,7 @@ Last login: Thu Nov 19 08:21:39 2020 from 10.1.1.2
 
 Схема сети выглядит следующим образом:
 
-![alt text](./network-filtering.png)
+![alt text](./map.png)
 
 Установим и запустим nginx на `centralServer`:
 ```
